@@ -11,5 +11,6 @@ class Example
 {
     def show() {
         println 'Hello World'
+        println 'Hello World2'
     }
 }
